@@ -41,6 +41,8 @@ public class HomeTest {
 	    	homepage.explore.click();
 	    }else if(str.equalsIgnoreCase("kids")) {
 	    	homepage.kids.click();			
+	    }else if(str.equalsIgnoreCase("shorts")) {
+	    	System.out.println("i am in short");
 	    }
 	}
 	
