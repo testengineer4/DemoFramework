@@ -45,6 +45,7 @@ Scenario Outline: Launch To Home Screen SmokeTest
     | pageName |
     | Explore  |  
     | Kids     |
+    | shorts   | 
     
     
     
